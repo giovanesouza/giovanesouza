@@ -24,6 +24,8 @@
   <img align="center" alt="Giovane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giovane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Giovane-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Giovane-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
 
   </div>
   
@@ -41,15 +43,13 @@
   
   
   <!--
- SITE ÍCONES: https://devicon.dev/
 
 <img align="center" alt="Giovane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Giovane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-
+SITE ÍCONES: https://devicon.dev/
 SITE EMBLEMAS: https://dev.to/envoy_/150-badges-for-github-pnk
 SITE EMOJIS: https://emojipedia.org/search/?q=bag
-
 
 ## = Linha ("hr")
 
