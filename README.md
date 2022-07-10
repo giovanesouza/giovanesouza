@@ -6,7 +6,7 @@
 
 - 💻 Desenvolvedor Full Stack em formação (Recode Pro 2022).
 - 📖 Autodidata.
-- 📚 Amo aprender coisas novas e de compartilhar conhecimentos. 
+- 📚 Amo aprender coisas novas e compartilhar conhecimentos. 
 
 ##
 <br>
