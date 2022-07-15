@@ -1,6 +1,7 @@
 <p align="center"> <img alt="animação" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" /> </p>
 
-<h1 align="center">Olá, Seja bem vindo(a) ao meu perfil no GitHub!👋</h1>
+<h1 align="center">Olá, me chamo Giovane Souza. Muito prazer!</h1>
+<h3 align="center">Seja bem vindo(a) ao meu perfil no GitHub!👋</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
 
