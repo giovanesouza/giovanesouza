@@ -10,6 +10,13 @@
 - 📚 Amo aprender coisas novas e compartilhar conhecimentos. 
 
 ##
+<h3> Conheça alguns dos meus projetos: </h3>
+
+<a href="https://giovanesouza.github.io/agenciaViagens/" target="_blank"> Agência de Viagens </a>
+
+
+
+##
 <br>
 
 <div align="center" style="width: 100%; display: inline_block;">
