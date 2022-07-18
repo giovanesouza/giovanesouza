@@ -12,7 +12,9 @@
 ##
 <h3> Conheça alguns dos meus projetos: </h3>
 
-<a href="https://giovanesouza.github.io/agenciaViagens/" target="_blank"> Agência de Viagens </a>
+<p><a href="https://giovanesouza.github.io/agenciaViagens/" target="_blank"> Agência de Viagens </a> </p>
+<p><a href="https://giovanesouza.github.io/calculadoraIMC/" target="_blank"> Calculadora de IMC </a> (Em desenvolvimento) </p>
+
 
 
 
