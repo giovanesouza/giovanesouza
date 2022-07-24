@@ -5,9 +5,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
 
-- 💻 Desenvolvedor Full Stack em formação (Recode Pro 2022).
+- 💻 Web Developer Full Stack em formação (Recode Pro 2022).
 - 📖 Autodidata.
-- 📚 Amo aprender coisas novas e compartilhar conhecimentos. 
+- 📚 Amo aprender e compartilhar conhecimentos. 
+- 🎶 Músico.
 
 ##
 <h3> Conheça alguns dos meus projetos: </h3>
