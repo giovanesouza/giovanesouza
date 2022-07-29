@@ -6,6 +6,7 @@
 
 
 - 💻 Web Developer Full Stack em formação (Recode Pro 2022).
+- </> Desenvolvendo desde Maio/2022.
 - 📖 Autodidata.
 - 📚 Amo aprender e compartilhar conhecimentos. 
 - 🎶 Músico.
