@@ -15,6 +15,8 @@
 <h3> Conheça alguns dos meus projetos: </h3>
 
 <p><a href="https://giovanesouza.github.io/agenciaViagens/" target="_blank"> Agência de Viagens </a> </p>
+<p><a href="https://giovanesouza.github.io/apiFilmesJs/" target="_blank"> FILMES (CONSUMINDO API) </a> (Em desenvolvimento) </p>
+<p><a href="https://giovanesouza.github.io/buscaCep/" target="_blank"> Buscador de CEP (CONSUMINDO API) </a> </p>
 <p><a href="https://giovanesouza.github.io/calculadoraIMC/" target="_blank"> Calculadora de IMC </a> </p>
 <p><a href="https://giovanesouza.github.io/listaDeCompras/" target="_blank"> Lista de Compras (Supermercado) </a> </p>
 <p><a href="https://giovanesouza.github.io/calculadora/" target="_blank"> Calculadora </a> </p>
