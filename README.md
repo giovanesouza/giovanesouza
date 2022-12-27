@@ -16,11 +16,13 @@
 
 <p><a href="https://giovanesouza.github.io/agenciaViagens/" target="_blank"> Agência de Viagens (Versão front) </a> </p>
 <p><a href="https://github.com/giovanesouza/SpringAgenciaViagens" target="_blank"> Agência de Viagens (Versão fullstack) </a> </p>
+<p><a href="https://giovanesouza.github.io/BuyPizza/" target="_blank"> Venda de Pizzas </a>(Em desenvolvimento)</p>
 <p><a href="https://giovanesouza.github.io/buscaCep/" target="_blank"> Buscador de CEP (CONSUMINDO API) </a> </p>
 <p><a href="https://giovanesouza.github.io/calculadoraIMC/" target="_blank"> Calculadora de IMC </a> </p>
+<p><a href="https://giovanesouza.github.io/linkedin-clone-frontend/" target="_blank"> Clone do LinkedIn </a> </p>
 <p><a href="https://giovanesouza.github.io/listaDeCompras/" target="_blank"> Lista de Compras (Supermercado) </a> </p>
 <p><a href="https://giovanesouza.github.io/calculadora/" target="_blank"> Calculadora </a> </p>
-<p><a href="https://giovanesouza.github.io/linkedin-clone-frontend/" target="_blank"> Clone do LinkedIn </a> </p>
+
 
 
 <p><a href="https://github.com/SQUAD29T3" target="_blank"> Projeto social - Equalizes </a> </p>
