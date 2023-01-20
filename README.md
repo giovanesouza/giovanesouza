@@ -11,6 +11,15 @@
 - 📚 Amo aprender e compartilhar conhecimentos. 
 - 🎶 Músico.
 
+
+<h3> Contato e network: </h3>
+ <div style="display: flex; width=100%;"> <a href="mailto:developergiovanesouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+
+ <a href="https://www.linkedin.com/in/developergiovanesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ </div>
+
+
 ##
 <h3> Conheça alguns dos meus projetos: </h3>
 
@@ -20,16 +29,6 @@
 
 ##
 <br>
-
-<div align="center" style="width: 100%; display: inline_block;">
-
- <a href="https://github.com/giovanesouza">
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
- 
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanesouza&layout=compact&langs_count=7&theme=cobalt"/>
-
-</div>
-
 
 <h3 align="left"> Linguagens e Ferramentas: </h3>
 
@@ -56,21 +55,21 @@
 
   </div>
   
-##
+
  
-<div> 
+ ##
+ 
+ <div align="center" style="width: 100%; display: inline_block;">
 
-<h3> Conecte-se comigo: </h3>
+<p>&nbsp;<img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&locale=en" alt="giovanesouza" /></p>
+    
+   <p><img align="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanesouza&show_icons=true&locale=en&layout=compact" alt="giovanesouza" /></p>
 
- <p align="left">
-
-<a href="https://www.linkedin.com/in/developergiovanesouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</p>
+<p><img align="center" height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=giovanesouza&" alt="giovanesouza" /></p>
+    
   
 </div>
-  
-  
+ 
   
   
   <!--
