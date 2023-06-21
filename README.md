@@ -5,14 +5,15 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
 
-- 💻 FullStack Developer (Recode Pro 2022).
-- </> Desenvolvendo desde Maio/2022.
+- 💻 FullStack Developer (Recode Pro 2022)
+- </> Desenvolvendo desde Maio/2022
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
 - 🚀  Estudando Desenvolvimento Front-End (Html, CSS, Bootstrap, JavaScript e React), Instituto Nu/Descomplica
 - .#.  Estudando Desenvolvimento Back-End (C#), Senai
 - {   } Estudando Desenvolvimento Back-End (Java), Oracle/Alura
 - 📖 Autodidata.
-- 📚 Amo aprender e compartilhar conhecimentos. 
-- 🎶 Músico.
+- 📚 Amo aprender e compartilhar conhecimentos
+- 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique em [quero conhecer o curso - LINK EM BREVE]() para mais informações.
 
 
 <h3> Contato e network: </h3>
