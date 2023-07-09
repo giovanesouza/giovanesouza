@@ -13,7 +13,7 @@
 - {   } Estudando Desenvolvimento Back-End (Java), Oracle/Alura
 - 📖 Autodidata.
 - 📚 Amo aprender e compartilhar conhecimentos
-- 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique em [quero conhecer o curso - LINK EM BREVE]() para mais informações.
+- 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique <a href="https://violaosemfrustracao.com.br/" target="_blank">aqui para mais informações</a>.
 
 
 <h3> Contato e network: </h3>
