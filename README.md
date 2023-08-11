@@ -8,9 +8,9 @@
 - 💻 FullStack Developer (Recode Pro 2022)
 - </> Desenvolvendo desde Maio/2022
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
-- 🚀  Estudando Desenvolvimento Front-End (Html, CSS, Bootstrap, JavaScript e React), Instituto Nu/Descomplica
-- .#.  Estudando Desenvolvimento Back-End (C#), Senai
-- {   } Estudando Desenvolvimento Back-End (Java), Oracle/Alura
+- {   } Estudando Desenvolvimento Back-End (Java) - Oracle/Alura
+- 🎓  Desenvolvimento Back-End (C#) - Senai
+- 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
 - 📖 Autodidata.
 - 📚 Amo aprender e compartilhar conhecimentos
 - 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique <a href="https://violaosemfrustracao.com.br/" target="_blank">aqui para mais informações</a>.
