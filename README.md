@@ -8,8 +8,7 @@
 - 💻 FullStack Developer (Recode Pro 2022)
 - </> Desenvolvendo desde Maio/2022
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
-- {   } Estudando Desenvolvimento Back-End (Java) - Oracle/Alura
-- 🎓  Desenvolvimento Back-End (C#) - Senai
+- 🎓  Programador Back-End (C#) - Senai
 - 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
 - 📖 Autodidata.
 - 📚 Amo aprender e compartilhar conhecimentos
