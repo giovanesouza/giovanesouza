@@ -8,6 +8,7 @@
 - 💻 FullStack Developer (Recode Pro 2022)
 - </> Desenvolvendo desde Maio/2022
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
+- 🎓  Desenvolvedor Full Stack - iTalents
 - 🎓  Programador Back-End (C#) - Senai
 - 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
 - 📖 Autodidata.
@@ -58,7 +59,7 @@
     <img align="center" alt="Giovane-Php" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Giovane-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
     <img align="center" alt="Giovane-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Giovane-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<!--    <img align="center" alt="Giovane-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> -->
  </div>
 
 <br/>
