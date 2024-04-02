@@ -6,13 +6,12 @@
 <h3 align="center">Seja bem vindo(a) ao meu perfil no GitHub!👋</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
-
-- 💻 FullStack Developer (Recode Pro 2022)
-- </> Desenvolvendo desde Maio/2022
 - 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
+- 💻 Desenvolvendo desde Maio/2022
 - 🎓  Desenvolvedor Full Stack - iTalents
 - 🎓  Programador Back-End (C#) - Senai
 - 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
+- 🎓 Desenvolvedor Full Stack - Recode Pro
 - 📖 Autodidata.
 - 📚 Amo aprender e compartilhar conhecimentos
 - 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique <a href="https://violaosemfrustracao.com.br/" target="_blank">aqui para mais informações</a>.
@@ -63,7 +62,6 @@
     <img align="center" alt="Giovane-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
     <img align="center" alt="Giovane-DOTNET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
     <img align="center" alt="Giovane-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<!--    <img align="center" alt="Giovane-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> -->
  </div>
 
 <br/>
@@ -75,6 +73,11 @@
       <img align="center" alt="Giovane-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
       <img align="center" alt="Giovane-MongoDb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   </div>
+
+<br/>
+
+## ✳️ CMS
+   <img align="center" alt="Giovane-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 <br/>
 
