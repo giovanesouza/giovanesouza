@@ -70,9 +70,11 @@
 
 <div style="display: inline_block">
       <img align="center" alt="Giovane-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-      <img align="center" alt="Giovane-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+     <img align="center" alt="Giovane-PostreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+     <img align="center" alt="Giovane-SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
       <img align="center" alt="Giovane-MongoDb" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </div>
+
+   </div>
 
 <br/>
 
@@ -86,6 +88,7 @@
   <img align="center" alt="Giovane-VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Giovane-Eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Giovane-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+ <img align="center" alt="Giovane-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
   <img align="center" alt="Giovane-Postman" height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
   <img align="center" alt="Giovane-FileZilla" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-plain.svg" /> 
 </div>
@@ -109,8 +112,6 @@
 
 <p><a href="https://giovanesouza.github.io/listaDeCompras/" target="_blank"> Lista de Compras (Supermercado) </a> </p>
 <p><a href="https://giovanesouza.github.io/calculadora/" target="_blank"> Calculadora </a> </p>
-
-<img align="center" alt="Giovane-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 SITE ÍCONES: https://devicon.dev/
 SITE EMBLEMAS: https://dev.to/envoy_/150-badges-for-github-pnk
