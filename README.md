@@ -2,19 +2,19 @@
        <img alt="img fullstack" src="https://github.com/giovanesouza/giovanesouza/assets/108561182/2745cb5b-67b3-4589-91c0-4e2bfd56bc49" /> 
  </div>
 
-<h1 align="center">Olá, sou o Giovane Souza. Dev Full Stack 🚀 </h1>
-<h3 align="center">Seja bem vindo(a) ao meu perfil no GitHub!👋</h3>
+<h1 align="center">Hello, I'm Giovane Souza. I'm a Full Stack Developer 🚀 </h1>
+<h3 align="center">Welcome to my Github profile!👋</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (UniAmérica)
-- 💻 Desenvolvendo desde Maio/2022
+- 📚 Studying Systems Analysis and Development (UniAmérica)
+- 💻 Coding since May 2022
 - 🎓  Desenvolvedor Full Stack - iTalents
 - 🎓  Programador Back-End (C#) - Senai
 - 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
 - 🎓 Desenvolvedor Full Stack - Recode Pro
-- 📖 Autodidata.
-- 📚 Amo aprender e compartilhar conhecimentos
-- 🎶 Músico - **quer aprender a tocar violão SEM frustração?** Eu posso te ajudar, clique <a href="https://violaosemfrustracao.com.br/" target="_blank">aqui para mais informações</a>.
+- 📖 Self taught
+- 📚  I love learn and sharing knowledge 
+- 🎶 Musician - **Do you want to learn how to play Guitar without frustration?** I can help you, <a href="https://violaosemfrustracao.com.br/" target="_blank">click here for more information</a> - Only in PT-BR.
 
 <!--
 ##
@@ -27,9 +27,9 @@
 
  <div align="center" style="width: 100%; display: inline_block;">
 
-   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="giovanesouza" />
-   
    <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanesouza&show_icons=true&include_all_commits=true&theme=dark&layout=compact&locale=en" alt="giovanesouza" />
+
+   <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=giovanesouza&show_icons=true&include_all_commits=true&theme=dark&locale=en" alt="giovanesouza" />
    
    <!--
    <img align="center" height="180em" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=giovanesouza&theme=dark" alt="giovanesouza" /> 
@@ -112,7 +112,7 @@
  
  ##
 
-  <h3> Contato e network: </h3>
+  <h3> Contact: </h3>
   <a href="https://www.linkedin.com/in/developergiovanesouza/" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
