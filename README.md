@@ -8,6 +8,7 @@
 
 - 📚 Studying Systems Analysis and Development (UniAmérica)
 - 💻 Coding since May 2022
+- ☁️ AWS Certified Cloud Practitioner
 - 🎓  Desenvolvedor Full Stack - iTalents
 - 🎓  Programador Back-End (C#) - Senai
 - 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
@@ -88,6 +89,7 @@
 
 <div style="display: inline_block">
      <img align="center" alt="Giovane-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+     <img align="center" alt="Giovane-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
      <img align="center" alt="Giovane-Docker" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
      <img align="center" alt="Giovane-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
      <img align="center" alt="Giovane-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
