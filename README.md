@@ -6,15 +6,16 @@
 <h3 align="center">Welcome to my Github profile!👋</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=giovanesouza&label=Profile%20views&color=0e75b6&style=flat" alt="giovanesouza" /> </p>
 
-- 📚 Studying Systems Analysis and Development (UniAmérica)
 - 💻 Coding since May 2022
-- ☁️ AWS Certified Cloud Practitioner
-- 🎓  Desenvolvedor Full Stack - iTalents
-- 🎓  Programador Back-End (C#) - Senai
-- 🎓  Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
+- 📚 Studying Postgraduate Program in Software Engineering (UniAmérica)
+- 🎓 Technologist Degree in Systems Analysis and Development (UniAmérica)
+- 🎓 Desenvolvedor Full Stack - iTalents
+- 🎓 Programador Back-End (C#) - Senai
+- 🎓 Fundamentos de FrontEnd Development - Instituto Nu/Descomplica
 - 🎓 Desenvolvedor Full Stack - Recode Pro
-- 📖 Self taught
-- 📚  I love learn and sharing knowledge 
+- ☁️ AWS Certified Cloud Practitioner
+- 📖 Self-taught
+- 📚  I love learning and sharing knowledge 
 - 🎶 Musician - **Do you want to learn how to play Guitar without frustration?** I can help you, <a href="https://violaosemfrustracao.com.br/" target="_blank">click here for more information</a> - Only in PT-BR.
 
 <!--
